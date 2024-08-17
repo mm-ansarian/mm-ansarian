@@ -7,10 +7,6 @@
     - SQL
     - Web scraping(with python)
     - QT(with python)
- 
-## Contact with me
-- ✉ Email: [My email](ansarian.mohammad.mahdi@gmail.com)
-
 <!---
 mm-ansarian/mm-ansarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
