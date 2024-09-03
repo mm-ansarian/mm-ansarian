@@ -1,7 +1,5 @@
 ## About me
-👋🏼 Hi, I’m Mohammad Mahdi Ansarian;
-
-- 💻 A python programmer, always trying hard to improve himself.
+👋🏼 Hi, I’m Mohammad Mahdi Ansarian, A python programmer, always trying hard to improve himself.
 
 - 💪🏼 Skills: 
     - Python
