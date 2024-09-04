@@ -7,6 +7,7 @@
     - Qt
 
 - 🌱 Currently learning **more** about:
+    - Backend web development with django 
     - Algorithm and data structure
     - Web scraping 
 
