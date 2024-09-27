@@ -14,7 +14,6 @@
 - 👀 Interested in: 
     - Taekwondo 
     - Astronomy 
-    - Physics 
     - Plants and flowers 
 <!---
 mm-ansarian/mm-ansarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
