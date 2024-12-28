@@ -6,6 +6,7 @@
     - Django 
     - Query processing 
     - Qt
+    - Git
 
 - 🌱 Currently learning **more** about:
     - Algorithm and data structure
