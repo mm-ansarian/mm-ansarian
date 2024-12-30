@@ -11,6 +11,7 @@
 - 🌱 Currently learning **more** about:
     - Algorithm and data structure
     - Web scraping 
+    - HTML and CSS
 
 - 👀 Interested in: 
     - Taekwondo 
