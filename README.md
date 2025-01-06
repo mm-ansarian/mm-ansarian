@@ -4,7 +4,7 @@
 - 💪🏼 Skills: 
     - Python
     - Django 
-    - Query processing 
+    - SQL
     - Qt
     - Git
 
