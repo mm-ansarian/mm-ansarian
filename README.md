@@ -9,8 +9,9 @@
     - Git
 
 - 🌱 Currently learning **more** about:
-    - Algorithm and data structure
-    - Web scraping 
+    - Design Patterns
+    - Algorithm and Data Structure
+    - Web Scraping 
     - HTML and CSS
 
 - 👀 Interested in: 
