@@ -6,13 +6,13 @@
     - Django 
     - SQL
     - Qt
+    - HTML and CSS
     - Git
 
 - 🌱 Currently learning **more** about:
     - Design Patterns
     - Algorithm and Data Structure
     - Web Scraping 
-    - HTML and CSS
 
 - 👀 Interested in: 
     - Taekwondo 🥋
