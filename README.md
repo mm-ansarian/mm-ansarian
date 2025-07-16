@@ -6,7 +6,8 @@
     - Django 
     - SQL
     - Qt
-    - HTML and CSS
+    - HTML
+    - CSS
     - Git
 
 - 🌱 Currently learning **more** about:
