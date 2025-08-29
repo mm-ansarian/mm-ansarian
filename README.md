@@ -9,9 +9,9 @@
     - HTML
     - CSS
     - Git
+    - Design Patterns
 
 - 🌱 Currently learning **more** about:
-    - Design Patterns
     - Algorithm and Data Structure
     - Web Scraping 
 
