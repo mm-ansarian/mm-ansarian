@@ -1,5 +1,5 @@
 ## About me
-👋🏼 Hi, I’m Mohammad Mahdi Ansarian, A python programmer(backend developer), always trying hard to improve himself.
+👋🏼 Hi, I’m Mohammad Mahdi Ansarian, A python programmer(junior backend developer), always trying hard to improve himself.
 
 - 💪🏼 Skills: 
     - Python
@@ -13,7 +13,7 @@
 
 - 🌱 Currently learning **more** about:
     - Algorithm and Data Structure
-    - Web Scraping 
+    - AI
 
 - 👀 Interested in: 
     - Taekwondo 🥋
