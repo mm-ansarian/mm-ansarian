@@ -17,6 +17,7 @@
 
 - 👀 Interested in: 
     - Taekwondo 🥋
+    - Formula 1 🏎
     - Chess ♟️
     - Astronomy 🪐
     - Plants and flowers 🪴
